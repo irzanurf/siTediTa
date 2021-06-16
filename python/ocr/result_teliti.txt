@@ -1,0 +1,111 @@
+ify Ors
+
+/S&QN3>\
+
+js 
+
+x SIN yz 7
+
+S, }
+
+\ 20e |
+\ Semarand f
+HALAMAN PENGESAHAN
+PROPOSAL PENELITIAN INOVATIF
+Judul Penelitian : Pengembangan Sistem Informasi Manajemen Untuk Inspeksi
+Keselamatan dan Kesehatan Kerja di Fakultas Teknik Universitas
+Diponegoro
+Luaran Penelitian : Modul Inspeksi Pada Sistem Informasi Manajemen K3 di Fakultas
+Teknik UNDIP
+Ketua Penelitian :
+a. Nama lengkap : Dr, Anak Agung Sagung Manik Mahachandra Jayanthi
+Mertha, ST, MSc.
+b, NIP/NIDN : 19830503 201012 2 002 / 0003058302
+ Jabatan fungsional :Lektor
+d Departemen : Teknik Industri
+e. Nomer HP : 0878-8191-8305
+f, Alamat email :manik.mahachandra@ ft.undip.ac.id
+Anggota Penelitian 1 =
+a. Nama lengkap : Ike Pertiwi Windasari, ST, MT
+b, NIP/NIDN + 19841206 201012 2 008 / 0006128402
+c, Departemen : Teknik Komputer
+d. Nomer HP + 0856-4008-2652
+Anggota Mahasiswa 21, Panji Rachman Hakim. NIM 21070118120007
+2, Aditya Ridwan Wicaksono NIM 21070118130185
+3, Dimas Aldi Kartika NIM 21120117130057
+4, Figri Abdillah NIM 21120117130061
+Lama Penelitian : 6 (enam) bulan
+Biaya Penelitian : Rp20.000.000,Sumber Dana : RKAT Fakultas Teknik Undip Tahun 2020
+Semarang, 28 Februari 2021
+Ketua Peneliti, n
+ee
+(Dr, A.A.S, Manik Mahachandra J.M.)
+NIP. 19830503 201012 2 002
+1
+ABSTRAK
+Organisasi bertanggung jawab untuk meminimalkan risiko bahaya bagi orang-orang yang
+terlibat dan terpengaruh oleh aktivitasnya, Tidak terkecuali untuk sebuah institusi pendidikan
+seperti Fakultas Teknik Universitas Diponegoro. Keselamatan dan kesehatan dosen, tenaga
+kependidikan, mahasiswa, dan tamu selama melakukan kegiatan di lingkungan Fakultas
+Teknik Undip harus menjadi prioritas organisasi.
+Manajemen Kesehatan dan Keselamatan Kerja (K3) yang ada di Fakultas Teknik Universitas
+Diponegoro perlu perhatian lebih, terutama dalam hal inspeksi. Inspeksi APAR dan Inspeksi
+P3K di setiap sisi gedung di Fakultas Teknik, sebagai contoh, perlu diperhatikan dari segi
+jumlah, peletakan, dan fungsinya, Inpeksi lain yang dipelrukan adalah dalam hal pelaporan
+potensi bahaya. Kampus yang termasuk lingkungan yang dinamis dapat selalu mengandung
+potensi bahaya yang berubah-ubah sepanjang waktu. Hal ini sebaiknya diakomodasi pula
+dalam Manajemen K3, Oleh karena itu, inspeksi K3 mutlak diperlukan dalam sistem
+manajemen K3 FT Undip, yang telah mencanangkan 1S045001:2018 di awal tahun ini.
+Dengan adanya perkembangan teknologi yang pesat, kegiatan inspeksi kini dapat dilakukan
+melalui sistem informasi dalam bentuk website dan aplikasi di telepon genggam. Penelitian ini
+dijalankan untuk mengembangkan Sistem Informasi Manajemen K3 (SIMK3) yang telah ada
+di FT Undip, terutama dalam modul Inspeksi K3. Tahapan pertama yang dijalankan adalah
+pengumpulan data denah lokasi dan fasilitas K3 yang perlu diinspeksi secara rutin, seperti
+detektor, APAR dan P3K. Data tersebut kemudian akan diintegrasikan dalam sistem informasi
+di website dan aplikasi android untuk telepon genggam. Sebagai tambahan, modul inspeksi
+juga memuat pelaporan potensi bahaya K3 di sekitar lingkungan FT Undip. Harapannya, modul
+ini bisa diakses oleh seluruh civitas akademik FT Undip dan juga tamu. Dengan adanya fasilitas
+inspeksi K3 yang komprehensif tersebut, diharapkan penerapan K3 di FT Undip berkembang
+signifikan ke arah yang lebih positif, dan dapat menunjang peningkatan prestasi dan
+produktivitas kerja seluruh civitas akademik FT Undip.
+Kata kunci: K3, sistem informasi, inspeksi, potensi bahaya, fasilitas K3
+DAFTAR ISI
+
+HALAMAN PENGESAHAN_ 1
+DAFTAR ISI_ 2
+RINGKASAN. 3
+BAB 1, PENDAHULUAN, 4
+11, Latar Belakang, 4
+12, Tujuan Khusus_ _6
+13, Batasan Penelitian, 7
+14 Urgensi Penelitian. 7
+BAB 2, TINJAUAN PUSTAKA_ 3
+2.1, State of The Art, 8
+2.2, Peta Jalan Penelitian, 8
+2.3, Keselamatan dan Kesehatan Kerja (K3), 9
+2A, Codelgniter. 10
+2.5. Database_ _10
+BAB 3, METODE PENELITIAN. ll
+3.1, Bagan Penelitian 11
+3.2, Waktu dan Tempat Penelitian__ lt
+3.3. Metode Pengumpulan Data. 11
+34, Perancangan Sistem_ 12
+3.5. Pengujian Sistem- 12
+3.6. Pembuatan Laporan_ 12
+BAB 4, BIAYA DAN JADWAL PENELITIAN_ 13
+4.1, Anggaran Biaya. 13
+42, Jadwal Penelitian, 13
+BAB 5, DAFTAR PUSTAKA_ 14
+BAB 6, LAMPIRAN 9
+6.1, Lampiran A. Justifikasi Anggaran Penelitian_ _0
+62, Lampiran B, Susunan Organisasi Tim Peneliti dan Pembagian Tugas, 1
+63, Lampiran C. Biodata Ketua dan Anggota-Dosen dan Mahasiswa. 2
+6A, Ketua Peneliti 2
+65, Anggota Peneliti (Dosen), 7
+66. Anggota Peneliti (Mahasiswa) 1_ _3
+67, Anggota Peneliti (Mahasiswa) 2. 14
+68, Lampiran D. Surat Pernyataan Ketua Peneliti, 10
+69, Lampiran E, Formulir Desk Evaluasi Proposal Penelitian Strategis 14
+
+2
+

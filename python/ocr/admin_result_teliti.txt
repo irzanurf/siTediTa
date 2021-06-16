@@ -1,0 +1,103 @@
+Bidang Fokus :Energi Energi Baru dan Terbarukan
+Luaran :Publikasi di Prosiding Internasional Terindeks
+Scopus / Clarivate Analytics
+Kode/Rumpun IImu_ : Teknik Lingkungan
+PROPOSAL PENELITIAN UNGGULAN
+HIBAH BERSAING DANA RKAT FAKULTAS TEKNIK UNDIP
+TAHUN ANGGARAN 2021
+KAJIAN POTENSI REFUSE DERIVED FUEL (RDF) SEBAGAI ENERGI
+ALTERNATIF TERBARUKAN DARI PENAMBANGAN TPA
+JATIBARANG
+TIM PENGUSUL
+Mochamad Arief Budihardjo, S.T., M-Eng.Sc., Ph.D NIP. 197409302001 121002
+Dr. Ir. Eflita Yohana, MT NIP. 196204281990012001
+Bimastyaji Surya Ramadan NIP. 199203242019031016
+Muhammad Fillah Qoyyimul Haq NIM. 21080119130042
+Choirul Basyar NIM. 21080119420009
+DEPARTEMEN TEKNIK LINGKUNGAN
+FAKULTAS TEKNIK UNIVERSITAS DIPONEGORO
+TAHUN 2021
+HALAMAN PENGESAHAN
+PROPOSAL PENELITIAN UNGGULAN
+Judul Penelitian : Kajian Potensi Refuse Derived Fuel (RDF) Sebagai
+Energi Alternatif Terbarukan dari Penambangan TPA
+Jatibarang
+Luaran Penelitian : Publikasi di Jumal Terindeks Scopus EUREKA,
+Physics and Engineering (Q2) SJR 0.17 dan draft MoU
+dengan School of Design and Environmnent, National
+University of Singapore
+Ketua Peneliti
+a. Nama Lengkap : Mochamad Arief Budihardjo, $.T., M.Eng.Se., Ph.D.
+b. NIP/NIDN : 197409302001121002
+. Jabatan Fungsional : Lektor Kepala
+d. Departemen : Teknik Lingkungan
+e, Nomor HP : 0811297437
+, E-mail : m.budihardjo@ftundip.ac.id
+Anggota Penelitian (1)
+a. Nama Lengkap : Dr, Ir, Eflita Yohana, MT
+b, NIP/NIDN : 196204281990012001
+c. Departemen : Teknik Mesin
+d. Nomor HP : 085201207619
+Anggota Penelitian (2)
+a. Nama Lengkap : Bimastyaji Surya Ramadan, ST., MT
+b. NIP/NIDN : 199203242019031016
+c, Departemen : Teknik Lingkungan
+d. Nomor HP : 082225539719
+Anggota Mahasiswa : 1, M. Fillah Qoyyimul Haq NIM. 21080119130042
+2, Choirul Basyar NIM, 21080119420009
+Lama Penelitian : 7 (tujuh) bulan
+Sumber Dana : RKAT Fakultas Teknik Undip Tahun 2021
+Semarang, 25 Februari 2021
+Ketua Peneliti,
+' z
+0 \MALY
+Mochamad Arief Budihardjo, $.T., M.Eng.Sc., Ph.D.
+NIP. 197409302001121002
+ii
+ABSTRAK
+
+TPA Jatibarang merupakan TPA terbesar di Jawa Tengah dengan
+luasan 46 Ha dan memiliki 4 zona yaitu dua zona aktif dan dua zona pasif.
+Zona 3 dan 4 merupakan zona aktif yang masih menerima sammpah, sedangkan
+zona 1 dan 2 sudah ditutup pada tahun 2019 serta dimanfaatkan gas metannya
+sebagai PLTSa. Pemanfaatan ini akan menyisakan timbunan sampah yang
+dapat ditambang untuk dimanfaatkan menjadi Refuse Derived Fuel (RDF).
+Pada pembuatan RDF, fraksi sampah yang mudah terbakar pada umumnya
+dilakukan reduksi ukuran lalu dikeringkan supaya dapat digunakan sebagai
+bahan bakar. zona pasif TPA Jatibarang memiliki potensi menjadi bahan baku
+RDF sebab melewati batas nilai kalor minimal sebagai bahan baku RDF yakni
+minimal 2-2,5 kkal/ton. Pengambilan sampel sampah tidak dilakukan di zona
+pasif satu dan zona pasif dua karena sudah ditutup dengan geomembran,
+sehingga dilakukan di zona antara yang memiliki usia hampir sama dengan
+zona pasif satu dan zona pasif dua, dengan pengambilan sampel pada
+kedalaman 2-3 m. Sampel yang diambil dipilih dengan metode coning and
+quartering, Teknik sampling densitas sampah menggunakan acuan Testing of
+Waste Compaction Density in Landfills (EPA, 1995). Pengambil sampel
+sampah dilakukan di tiga titik berbeda di zona antara yang memiliki usia
+hampir sama dengan zona pasif satu dan zona pasif dua. Output dari penelitian
+ini adalah 1 artikel yang diterbitkan di Jurnal Terindeks Scopus EUREKA,
+Physics and Engineering (Q2) SJR 0.17 dan draft MoU dengan School of
+Design and Environmnent, National University of Singapore. Penelitian ini
+diharapkan dapat mengatasi permasalahan sampah di TPA Jatibarang dan
+meminimalisir dampak dari kondisi yang diakibatkan kegiatan TPA
+sebelumnya dengan memanfaatkan sampah zona pasif satu dan zona pasif
+dua menjadi Refuse Derived Fuel (RDF).
+
+iii
+DAFTAR ISI
+LiL. Latar Belakang ..scsssssssssssssssnessnstostosesnesinstsssusenseenseiseisevneeineesees I
+DS UUM secseee es ceressecer coer ce eere a area pease aoe eme sacra crms ne:
+2.1, State of the Art Penelitian..........cvvssesssssssrssseeesessennnnsseeesessennnnnsseesssserensnes &
+22, Refuse Derived Fuel (RDE)...cssssssssssessssseesseseessssnressssnressesnressesnessesasesseaas A
+22.1  Jenis-Jenis Refuse Derived Fuel (RDF)... SD
+2.2.2  Nilai Kalor.....ssssssssssessssssessssssessssneessssseessesneessesseessessresseoneesseaneesseasseses 
+2.2.3 Proses Pembuatan RDF........ssssssssessssssersssseeeseessnresssseeesessrnnnnsseeesessenen 2
+2.3. Analytical Hierarchy Process (AHP) dengan Software Expert Choice.... 7
+2A, Studi Kelayakam........scsscssessssssesssssreessssreessesreesseareesseareessesseesssaneesssaseesseaty 8
+25, Peta Jalan Penelitian.......ssssccsssssssssssseessessrennssseeeseserennnnseeesessenennnsseresssssees
+3.1, Lokasi Pelaksanaan Penelitian ...........ssssssessssessessrennnseeesssserennnneeeseseeee LL
+3.2, Teknik Pengumpulan Data .........sssssssssssseessessseeeenesseeseenessseresneseseveeneeee LL
+3.3, Pelaksanaan Penelitian ...........ssssssssseessessressnsseersessennsssseeesesssennssseeeesssereeey LZ
+34, Teknik Analisis Data ......sscsscssssssssssesssssresssssreesssnseessenrersesanresssaneesesaneesses 13
+iv
+
